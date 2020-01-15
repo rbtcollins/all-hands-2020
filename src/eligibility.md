@@ -1,4 +1,4 @@
-# Elibility
+# Eligibility
 
 In general, we intend to the event to be open to people who are
 actively participating in the Rust organization. In some cases, that's
